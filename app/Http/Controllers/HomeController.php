@@ -32,7 +32,7 @@ class HomeController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        // Hola soy una linea de prueba
     }
 
     /**
